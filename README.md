@@ -1,5 +1,11 @@
 # Lab 08 : Todo List Mockup
 
+ชื่อ-สกุล :
+
+รหัสนักศึกษา :
+
+---
+
 ให้นักศึกษาสร้างหน้าเว็บ frontend ที่แสดงหน้า Mockup (จำลอง) ของ Note App โดยใช้ความรู้เรื่อง React และการแบ่ง Component แบบพื้นฐาน
 
 [คลิกเพื่อดูรายละเอียด](https://o365cmu-my.sharepoint.com/:b:/g/personal/dome_potikanond_cmu_ac_th/EYXzQWLeSaxBtjbA8bdNd1sBIZCpH3GDM1cJTPfC47BZhA)
