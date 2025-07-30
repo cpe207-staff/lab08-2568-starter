@@ -6,6 +6,6 @@
 
 หลังจาก Deploy ด้วย Vercel แล้ว ให้แปะลิงค์ Deploy และลิงค์ GitHub Repo ของน.ศ. ไว้ใน Spreadsheet ด้านล่าง
 
-คลิกเพื่อเปิด Spreadsheet
+[คลิกเพื่อเปิด Spreadsheet](https://o365cmu-my.sharepoint.com/:x:/g/personal/dome_potikanond_cmu_ac_th/ETFvzKA2h2lKk-3ktumEanUBRtX4sAvNHk-ssok3MFwYOg?e=U5n3gF)
 
-https://o365cmu-my.sharepoint.com/:x:/g/personal/dome_potikanond_cmu_ac_th/ETFvzKA2h2lKk-3ktumEanUBRtX4sAvNHk-ssok3MFwYOg?e=U5n3gF
+
